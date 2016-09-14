@@ -308,6 +308,7 @@ fluidRow(
   ))
 )))),
 #### customers panel ####
+ tabItem(tabName = "custom",
          
          fluidPage(
                   fluidRow(
